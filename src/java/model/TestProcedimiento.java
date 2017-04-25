@@ -5,7 +5,7 @@ import java.sql.Connection;
 
 /**
  *
- * @author campitos
+ * @author IVAN NEPOMUCENO LEON
  */
 public class TestProcedimiento {
     public static void main(String args[])throws Exception{
