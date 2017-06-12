@@ -20,11 +20,11 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Sergio%20Moreno/Documents/NetBeansProjects/Proyecto-Oracle/src/java/model/Autenticacion.java</file>
-            <file>file:/C:/Users/Sergio%20Moreno/Documents/NetBeansProjects/Proyecto-Oracle/src/java/model/Conexion.java</file>
-            <file>file:/C:/Users/Sergio%20Moreno/Documents/NetBeansProjects/Proyecto-Oracle/src/java/model/TestProcedimiento.java</file>
-            <file>file:/C:/Users/Sergio%20Moreno/Documents/NetBeansProjects/Proyecto-Oracle/web/Bienvenido.html</file>
-            <file>file:/C:/Users/Sergio%20Moreno/Documents/NetBeansProjects/Proyecto-Oracle/src/java/controller/ServletAutenticar.java</file>
+            <file>file:/C:/Users/Nepo/Documents/NetBeansProjects/proyecto-oracle-fn/src/java/model/Conexion.java</file>
+            <file>file:/C:/Users/Nepo/Documents/NetBeansProjects/proyecto-oracle-fn/src/java/model/TestProcedimiento.java</file>
+            <file>file:/C:/Users/Nepo/Documents/NetBeansProjects/proyecto-oracle-fn/web/hola.html</file>
+            <file>file:/C:/Users/Nepo/Documents/NetBeansProjects/proyecto-oracle-fn/web/CRUD.jsp</file>
+            <file>file:/C:/Users/Nepo/Documents/NetBeansProjects/proyecto-oracle-fn/src/java/controller/ServletAutenticar.java</file>
         </group>
     </open-files>
 </project-private>

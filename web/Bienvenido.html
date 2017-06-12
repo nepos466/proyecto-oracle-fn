@@ -6,18 +6,46 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>Infosist</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width "> 
+         <script src="jquery-2.2.3.min.js" type="text/javascript"></script>
+         <link rel="stylesheet" href="bootstrap.css"/>
+         <link rel="stylesheet" href="css/mio.css"/>
     </head>
-    <body>
-        <h1>Bienvenido a Oracle</h1>
-        <p>Selecciona una Opcion</p>
-        <select name="opciones" id="opcion">
-            <option>Buscar por Id</option>
-            <option>Buscar todos</option>
-            <option>Actualizar por Id</option>
-            <option>Borrar por Id</option>
-        </select>
+    
+    <body class="warning">
+        <header class="container">
+    <center><h1>Proyecto Infosist</h1>
+    </center>
+        </header>
+        <br>
+        <br>
+    <center>
+        
+        <!--BOTONES-->
+        <!-- Standard button -->
+        <form class="form-inline" action="guardar-persona.html">
+            <button type="submit" class="btn-primary btn-lg">INSERTAR</button>
+</form>
+        <br>
+        
+  
+<!-- Indicates a successful or positive action -->
+<form class="form-inline" action="BuscaID_L.html">
+<button type="submit" class="btn-primary btn-lg">BUSCAR POR ID</button>
+</form>
+<br>
+<!-- Contextual button for informational alert messages -->
+<form class="form-inline" action="borrarLibro.html">
+<button type="submit" class="btn-primary btn-lg">ELIMINAR POR ID</button>
+</form>
+<!-- Indicates caution should be taken with this action -->
+<br>
+<form class="form-inline" action="index.html">
+<button type="submit" class="btn-primary btn-lg">ACTULIZAR POR ID</button>
+</form>
+</center>
+             
     </body>
 </html>

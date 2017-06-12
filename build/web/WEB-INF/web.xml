@@ -4,9 +4,17 @@
         <servlet-name>ServletAutenticar</servlet-name>
         <servlet-class>controller.ServletAutenticar</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ServletBuscar</servlet-name>
+        <servlet-class>controller.ServletBuscar</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>ServletAutenticar</servlet-name>
         <url-pattern>/Ingresar.aspx</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ServletBuscar</servlet-name>
+        <url-pattern>/ServletBuscar</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
